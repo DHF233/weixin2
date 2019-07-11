@@ -1,0 +1,17 @@
+
+<view class='joker'>
+<view>活动一</view>
+<view>
+<image src="/image/ias_156083591756165_570x273_90.jpg">
+</image>
+</view>
+<view>全场7.5折</view>
+</view>
+<view class='joker'>
+<view>活动二</view>
+<view>
+<image src="/image/ias_156257081571448_570x273_90.jpg">
+</image>
+</view>
+<view>全场半价</view>
+</view>

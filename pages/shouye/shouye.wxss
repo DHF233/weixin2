@@ -1,0 +1,5 @@
+/* pages/shouye/shouye.wxss */
+.shangchang{
+  height: 200rpx;
+  width: 100%;
+}

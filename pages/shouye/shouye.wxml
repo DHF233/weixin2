@@ -1,0 +1,20 @@
+<view class='shouye'>
+<view>商场首页</view>
+<view>
+<image class='shangchang' src="/image/dsfsdfs.jpg" >
+</image>
+</view>
+<view>美妆排行榜</view>
+<view>
+<image src="/image/4b39fc24-f056-42b4-a069-3e7350727888_420_531.jpg" >
+</image>
+</view>
+<view>薇诺娜水润面膜</view>
+<view>疯抢价39</view>
+<view>
+<image src="/image/5f06e573-da6f-4b32-8398-827b56e95993_420_531.jpg" >
+</image>
+</view>
+<view>wis 玻尿酸面膜24片</view>
+<view>疯抢价78</view>
+</view>
